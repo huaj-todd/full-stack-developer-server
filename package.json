@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "full-stack-developer-server-node",
   "version": "1.0.0",
   "description": "Node.js HTTP Web Server for the Tuiter application",
@@ -24,5 +25,8 @@
   "homepage": "https://github.com/huaj-todd/full-stack-developer-server-node#readme",
   "dependencies": {
     "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
